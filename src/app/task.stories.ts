@@ -47,4 +47,4 @@ Archived.args = {
     ...Default.args.task,
     state: 'TASK_ARCHIVED',
   },
-};
+}; 
